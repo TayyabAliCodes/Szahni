@@ -1,1 +1,3 @@
 To view the project please visit this link: https://tayyabalicodes.github.io/Szahni/
+
+Szahni is a refined and visually appealing website that embodies minimalist design principles while delivering powerful functionality. Built to provide a smooth and immersive user experience, Szahni offers intuitive navigation, responsive layouts, and a clean interface. Whether you're presenting services, products, or portfolios, Szahni ensures that every detail stands out with elegance and simplicity. Powered by cutting-edge front-end development, it creates a lasting impact with its sleek and modern design.
