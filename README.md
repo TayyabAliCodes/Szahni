@@ -4,10 +4,10 @@ I worked on developing the website for Chalet S'Zähni, a premium chalet rental 
 
 Key features:
 
-Fully responsive design optimized for all devices.
+Fully responsive design optimized for all devices
 
-Integration of booking system for seamless reservations.
+Integration of booking system for seamless reservations
 
-High-quality image galleries and descriptions to enhance user engagement.
+High-quality image galleries and descriptions to enhance user engagement
 
-Multi-language support for international visitors.
+Multi-language support for international visitors
