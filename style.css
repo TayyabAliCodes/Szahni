@@ -43,6 +43,7 @@ body{
     margin: 0 auto;
     max-width: 1350px;
     width: 100%;
+    overflow: hidden;
 }
 .top-header-bc{
     padding: 11px;
@@ -707,7 +708,8 @@ body{
         display: none;
     }
     .nav-btn button a{
-        font-size: 14px;
+        font-size: 10px;
+         padding: 8px 5px;
     }
     .section-pra button a{
         font-size: 14px;
